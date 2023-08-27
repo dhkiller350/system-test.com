@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+
+h1 {
+  text-align: center;
+  color: blue;
+
+}
+
+body {
+  background-image: url('DizzyActiveIndianringneckparakeet-max-1mb.gif');
+  background-repeat: no-repeat;
+  background-size: 17in;
+  font-family: "Merriweather", serif;
+  font-style: italic
+}
+
+li {
+  text-align: center;
+}
+
+p {
+  color: rgb(255, 0, 34);
+  font-size: 15px;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(255, 0, 0);
+  font-size: 14px;
+}
+
+h3 {
+  color: red;
+  font-size: 14px;
+}
+
+h4 {
+  color: rgb(255, 0, 0);
+  font-size: 14px;
+}
+
+h5 {
+  color: rgb(255, 0, 0);
+  font-size: 14px;
+}
+
+h6{
+  color: rgb(255, 0, 0);
+  font-size: 14px;
+}
+h9{
+  color: rgb(0, 255, 51);
+  font-size: 14px;
+
+}
+
+header{
+  color:red;
+  font-size: 14px;
+}
+
+             div{
+               color:lime;
+               text-align: center;
+             }
